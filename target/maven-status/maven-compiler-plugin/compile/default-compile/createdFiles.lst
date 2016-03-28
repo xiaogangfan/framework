@@ -1,0 +1,5 @@
+dao/TestDao.class
+service/impl/TestServiceImpl.class
+service/TestService.class
+controller/TestController.class
+entity/User.class
