@@ -219,7 +219,7 @@
         <version>1.0</version>
         <configuration>
           <container>
-            <containerId>tomcat6x</containerId>
+            <containerId>tomcat8x</containerId>
             <home>/usr/local/apache-tomcat-8.0.32</home>
           </container>
           <configuration>

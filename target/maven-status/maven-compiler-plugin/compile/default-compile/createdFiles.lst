@@ -1,5 +1,6 @@
-com/abc/entity/User.class
-com/abc/dao/TestDao.class
-com/abc/controller/TestController.class
-com/abc/service/TestService.class
-com/abc/service/impl/TestServiceImpl.class
+org/andy/shop/dao/UserInfoMapper.class
+org/andy/shop/controller/UserController.class
+org/andy/shop/service/UserService.class
+org/andy/shop/service/impl/UserServiceImpl.class
+org/andy/shop/model/CourseInfo.class
+org/andy/shop/model/UserInfo.class
