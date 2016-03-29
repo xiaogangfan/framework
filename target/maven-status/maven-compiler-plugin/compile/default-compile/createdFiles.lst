@@ -1,5 +1,5 @@
-dao/TestDao.class
-service/impl/TestServiceImpl.class
-service/TestService.class
-controller/TestController.class
-entity/User.class
+com/abc/entity/User.class
+com/abc/dao/TestDao.class
+com/abc/controller/TestController.class
+com/abc/service/TestService.class
+com/abc/service/impl/TestServiceImpl.class

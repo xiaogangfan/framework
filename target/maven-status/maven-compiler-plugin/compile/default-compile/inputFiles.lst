@@ -1,5 +1,5 @@
-/Users/xiaogangfan/root/testcode/framework/src/main/java/dao/TestDao.java
-/Users/xiaogangfan/root/testcode/framework/src/main/java/service/impl/TestServiceImpl.java
-/Users/xiaogangfan/root/testcode/framework/src/main/java/controller/TestController.java
-/Users/xiaogangfan/root/testcode/framework/src/main/java/service/TestService.java
-/Users/xiaogangfan/root/testcode/framework/src/main/java/entity/User.java
+/Users/xiaogangfan/root/testcode/framework/src/main/java/com/abc/entity/User.java
+/Users/xiaogangfan/root/testcode/framework/src/main/java/com/abc/controller/TestController.java
+/Users/xiaogangfan/root/testcode/framework/src/main/java/com/abc/service/TestService.java
+/Users/xiaogangfan/root/testcode/framework/src/main/java/com/abc/service/impl/TestServiceImpl.java
+/Users/xiaogangfan/root/testcode/framework/src/main/java/com/abc/dao/TestDao.java
