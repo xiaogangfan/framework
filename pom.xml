@@ -220,11 +220,11 @@
         <configuration>
           <container>
             <containerId>tomcat6x</containerId>
-            <home>D:\WebServer\apache-tomcat-6.0.39</home>
+            <home>/usr/local/apache-tomcat-8.0.32</home>
           </container>
           <configuration>
             <type>existing</type>
-            <home>D:\WebServer\apache-tomcat-6.0.39</home>
+            <home>/usr/local/apache-tomcat-8.0.32</home>
           </configuration>
         </configuration>
       </plugin>
