@@ -28,6 +28,10 @@ public class UserController {
     @RequestMapping("/showInfos")
     public @ResponseBody Object showUserInfos(){
         List<UserInfo> userInfos = userService.getUsers();
+        for (int i = 0; i < userInfos.size(); i++) {
+            System.out.println(userInfos.get(i).getUname());
+
+        }
         return userInfos;
     }
 }

@@ -12,7 +12,7 @@ public class UserInfo {
 
     private Integer unumber;
 
-//    private List<CourseInfo> courseInfos;
+    private List<CourseInfo> courseInfos;
 
     public Integer getId() {
         return id;
@@ -38,8 +38,9 @@ public class UserInfo {
         this.unumber = unumber;
     }
 
-//    public List<CourseInfo> getCourseInfos() {
-//        return courseInfos;
-//    }
+    public List<CourseInfo> getCourseInfos() {
+
+        return courseInfos;
+    }
 
 }
