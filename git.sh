@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#git remote add origin git@github.com:xiaogangfan/framework.git
 #check parameters
 if [ "$#" -eq "1" ];then
     echo "param:$1"
@@ -12,7 +12,8 @@ fi
 #execute git command
 git status
 git add .
-git remote add origin git@github.com:xiaogangfan/framework.git
+
 git commit -am "$1"
+git pull origin master
 git push -u origin master
 git push
