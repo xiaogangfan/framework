@@ -11,6 +11,7 @@ fi
 
 #execute git command
 git status
+git add .
 git remote add origin git@github.com:xiaogangfan/framework.git
 git commit -am "$1"
 git push -u origin master
